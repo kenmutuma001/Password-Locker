@@ -127,11 +127,11 @@ def app():
                while True:
                   print('''
                   To ADD new account details, enter 'new'. To DELETE account details, enter 'del'. To FIND account details, enter 'find'. 
-                  To LOG Out, enter 'out'.         
+                  To LOG Out, enter 'out'.       
                   ''')
 
-                  if disp_acc(userinfo_name):
-                     print(disp_acc(userinfo_name))
+                  if disp_acc(user_name):
+                     print(disp_acc(user_name))
                   else:
                      print('''
 
@@ -145,7 +145,7 @@ def app():
                   userinfo_input = input()
 
                   if userinfo_input == 'new':
-                     print("Enter account name (Twitter, Instagram, Github, etc):")
+                     print("Enter account name (Twitter, Instagram,facebook, etc):")
 
                      acc_name = input().title()
 
