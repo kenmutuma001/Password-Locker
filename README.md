@@ -6,7 +6,7 @@ Application allows user to create multiple accounts with a username and password
 ## SET_UP INSTRUCTION
 
 * Copy the URL at the clone or download section in the git-hub repository.
-* Clone the url to your remote repositrory.
+* Clone the url to your local repositrory.
 * Open your favourite editor.
 * Run the password.py file in python3.6. 
 ## LINK
