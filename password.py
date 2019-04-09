@@ -160,7 +160,7 @@ def app():
                      action = input()
 
                      if action == 'm':
-                        input("Enter a password. Ensure it's long enough")
+                        print("Enter a password. Ensure it's long enough")
 
                         pass_word = input('\n')
 
