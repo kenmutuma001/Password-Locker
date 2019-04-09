@@ -108,10 +108,10 @@ def app():
 
       if user_input == 'l':
          print('''
-             ****
-         Account log in.
+             
+         || LOG IN ||
 
-             ****
+             
          ''')
          print('Enter your username:')
          user_name = input()
@@ -227,7 +227,7 @@ def app():
       elif user_input == 's':
          print('''
                  ****
-         Sign up for an account.
+        || Sign up for an account.||
 
          ______________________
          
