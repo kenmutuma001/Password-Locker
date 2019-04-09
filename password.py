@@ -146,7 +146,7 @@ def app():
                   userinfo_input = input()
 
                   if userinfo_input == 'new':
-                     print("Enter account name (Twitter, Instagram,facebook, etc):")
+                     print("Enter account name (Twitter, Instagram,facebook):")
 
                      acc_name = input().title()
 
