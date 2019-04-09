@@ -8,9 +8,9 @@ Application allows user to create multiple accounts with a username and password
 * Copy the URL at the clone or download section in the git-hub repository.
 * Clone the url to your remote repositrory.
 * Open your favourite editor.
-* Run the run.py file in python. 
+* Run the password.py file in python3.6. 
 ## LINK
-
+https://github.com/kenmutuma001/Password-Locker
 ## LINCENSE INFORMATION
 
 Copyright (c) [2019] [GITONGA KENNEDY MUTUMA]
