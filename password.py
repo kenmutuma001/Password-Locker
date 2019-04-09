@@ -89,7 +89,7 @@ def generate_password(length = 8):
 
 # main funtion that performs all the user actions
 
-def log_in():
+def app():
 
    while True:
       print('''
@@ -255,4 +255,4 @@ def log_in():
 
    
 
-print(log_in())
+print(app())
