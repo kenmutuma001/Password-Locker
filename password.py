@@ -100,7 +100,8 @@ def app():
       
 
 
-      To LOG IN, enter 'l'. To SIGN UP, enter 's'. To exit, enter 'exit' 
+      To LOG IN, enter 'l'. To SIGN UP, enter 's'. To exit, enter 'exit' .
+      Note for new users you have to SIGN-UP first and then LOG IN
       ''')
 
       user_input = input()
